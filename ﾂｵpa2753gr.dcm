@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP µPA2753GR
+D 30V Vds 8.0A Id, N-Channel MOSFET, SOP8
+K N-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library
