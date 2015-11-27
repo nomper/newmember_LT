@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RPR-220
+D Reflective photosensor RPR-220
+K Reflective photosensor
+F http://www.rohm.co.jp/products/databook/s/pdf/rpr-220-j.pdf
+$ENDCMP
+#
+#End Doc Library
